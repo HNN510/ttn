@@ -229,5 +229,12 @@ namespace HotelManager
         {
 
         }
+
+        private void btnLogOut_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            fLogin flogin = new fLogin();
+            flogin.Show();
+        }
     }
 }
