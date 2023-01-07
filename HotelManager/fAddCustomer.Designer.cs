@@ -146,7 +146,7 @@
             this.txbNationality.Location = new System.Drawing.Point(240, 207);
             this.txbNationality.Name = "txbNationality";
             this.txbNationality.Size = new System.Drawing.Size(203, 29);
-            this.txbNationality.Style = MetroFramework.MetroColorStyle.Green;
+            this.txbNationality.Style = MetroFramework.MetroColorStyle.Silver;
             this.txbNationality.TabIndex = 6;
             this.txbNationality.UseCustomBackColor = true;
             this.txbNationality.UseCustomForeColor = true;
@@ -260,7 +260,7 @@
             this.comboBoxSex.Location = new System.Drawing.Point(240, 152);
             this.comboBoxSex.Name = "comboBoxSex";
             this.comboBoxSex.Size = new System.Drawing.Size(203, 29);
-            this.comboBoxSex.Style = MetroFramework.MetroColorStyle.Green;
+            this.comboBoxSex.Style = MetroFramework.MetroColorStyle.Silver;
             this.comboBoxSex.TabIndex = 5;
             this.comboBoxSex.UseCustomBackColor = true;
             this.comboBoxSex.UseCustomForeColor = true;

@@ -164,7 +164,7 @@
                this.txbNationality.Location = new System.Drawing.Point(216, 216);
                this.txbNationality.Name = "txbNationality";
                this.txbNationality.Size = new System.Drawing.Size(179, 30);
-               this.txbNationality.Style = MetroFramework.MetroColorStyle.Green;
+               this.txbNationality.Style = MetroFramework.MetroColorStyle.Silver;
                this.txbNationality.TabIndex = 58;
                this.txbNationality.UseCustomBackColor = true;
                this.txbNationality.UseCustomForeColor = true;
@@ -253,7 +253,7 @@
                this.comboBoxSex.Location = new System.Drawing.Point(12, 277);
                this.comboBoxSex.Name = "comboBoxSex";
                this.comboBoxSex.Size = new System.Drawing.Size(175, 30);
-               this.comboBoxSex.Style = MetroFramework.MetroColorStyle.Green;
+               this.comboBoxSex.Style = MetroFramework.MetroColorStyle.Silver;
                this.comboBoxSex.TabIndex = 4;
                this.comboBoxSex.UseCustomBackColor = true;
                this.comboBoxSex.UseCustomForeColor = true;
@@ -270,7 +270,7 @@
                this.comboBoxCustomerType.Location = new System.Drawing.Point(12, 216);
                this.comboBoxCustomerType.Name = "comboBoxCustomerType";
                this.comboBoxCustomerType.Size = new System.Drawing.Size(175, 30);
-               this.comboBoxCustomerType.Style = MetroFramework.MetroColorStyle.Green;
+               this.comboBoxCustomerType.Style = MetroFramework.MetroColorStyle.Silver;
                this.comboBoxCustomerType.TabIndex = 3;
                this.comboBoxCustomerType.UseCustomBackColor = true;
                this.comboBoxCustomerType.UseCustomForeColor = true;
@@ -284,7 +284,7 @@
                this.comboboxID.Location = new System.Drawing.Point(12, 44);
                this.comboboxID.Name = "comboboxID";
                this.comboboxID.Size = new System.Drawing.Size(175, 30);
-               this.comboboxID.Style = MetroFramework.MetroColorStyle.Green;
+               this.comboboxID.Style = MetroFramework.MetroColorStyle.Silver;
                this.comboboxID.TabIndex = 0;
                this.comboboxID.UseSelectable = true;
                // 
@@ -724,7 +724,7 @@
                this.cbCustomerSearch.Location = new System.Drawing.Point(16, 68);
                this.cbCustomerSearch.Name = "cbCustomerSearch";
                this.cbCustomerSearch.Size = new System.Drawing.Size(175, 30);
-               this.cbCustomerSearch.Style = MetroFramework.MetroColorStyle.Green;
+               this.cbCustomerSearch.Style = MetroFramework.MetroColorStyle.Silver;
                this.cbCustomerSearch.TabIndex = 50;
                this.cbCustomerSearch.UseCustomBackColor = true;
                this.cbCustomerSearch.UseCustomForeColor = true;

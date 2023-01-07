@@ -464,7 +464,7 @@
             this.comboboxID.Location = new System.Drawing.Point(11, 49);
             this.comboboxID.Name = "comboboxID";
             this.comboboxID.Size = new System.Drawing.Size(175, 29);
-            this.comboboxID.Style = MetroFramework.MetroColorStyle.Green;
+            this.comboboxID.Style = MetroFramework.MetroColorStyle.Silver;
             this.comboboxID.TabIndex = 60;
             this.comboboxID.UseSelectable = true;
             // 
@@ -578,7 +578,7 @@
             this.cbBillSearch.Location = new System.Drawing.Point(11, 57);
             this.cbBillSearch.Name = "cbBillSearch";
             this.cbBillSearch.Size = new System.Drawing.Size(175, 29);
-            this.cbBillSearch.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbBillSearch.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbBillSearch.TabIndex = 51;
             this.cbBillSearch.UseCustomBackColor = true;
             this.cbBillSearch.UseCustomForeColor = true;

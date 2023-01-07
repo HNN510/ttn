@@ -360,7 +360,7 @@
             this.cbbStaffType.Location = new System.Drawing.Point(19, 54);
             this.cbbStaffType.Name = "cbbStaffType";
             this.cbbStaffType.Size = new System.Drawing.Size(175, 29);
-            this.cbbStaffType.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbbStaffType.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbbStaffType.TabIndex = 51;
             this.cbbStaffType.UseCustomBackColor = true;
             this.cbbStaffType.UseCustomForeColor = true;

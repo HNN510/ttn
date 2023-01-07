@@ -293,7 +293,7 @@
             this.cbNationality.Location = new System.Drawing.Point(240, 207);
             this.cbNationality.Name = "cbNationality";
             this.cbNationality.Size = new System.Drawing.Size(203, 29);
-            this.cbNationality.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbNationality.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbNationality.TabIndex = 49;
             this.cbNationality.UseCustomBackColor = true;
             this.cbNationality.UseCustomForeColor = true;
@@ -335,7 +335,7 @@
             this.cbCustomerType.Location = new System.Drawing.Point(10, 155);
             this.cbCustomerType.Name = "cbCustomerType";
             this.cbCustomerType.Size = new System.Drawing.Size(203, 29);
-            this.cbCustomerType.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbCustomerType.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbCustomerType.TabIndex = 42;
             this.cbCustomerType.UseCustomBackColor = true;
             this.cbCustomerType.UseCustomForeColor = true;
@@ -408,7 +408,7 @@
             this.cbSex.Location = new System.Drawing.Point(240, 152);
             this.cbSex.Name = "cbSex";
             this.cbSex.Size = new System.Drawing.Size(203, 29);
-            this.cbSex.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbSex.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbSex.TabIndex = 26;
             this.cbSex.UseCustomBackColor = true;
             this.cbSex.UseCustomForeColor = true;
@@ -697,7 +697,7 @@
             this.cbRoomType.Location = new System.Drawing.Point(10, 47);
             this.cbRoomType.Name = "cbRoomType";
             this.cbRoomType.Size = new System.Drawing.Size(203, 29);
-            this.cbRoomType.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbRoomType.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbRoomType.TabIndex = 33;
             this.cbRoomType.UseCustomBackColor = true;
             this.cbRoomType.UseCustomForeColor = true;

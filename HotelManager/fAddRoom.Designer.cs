@@ -275,7 +275,7 @@
             this.comboBoxRoomType.Location = new System.Drawing.Point(22, 100);
             this.comboBoxRoomType.Name = "comboBoxRoomType";
             this.comboBoxRoomType.Size = new System.Drawing.Size(175, 29);
-            this.comboBoxRoomType.Style = MetroFramework.MetroColorStyle.Green;
+            this.comboBoxRoomType.Style = MetroFramework.MetroColorStyle.Silver;
             this.comboBoxRoomType.TabIndex = 1;
             this.comboBoxRoomType.UseCustomBackColor = true;
             this.comboBoxRoomType.UseCustomForeColor = true;

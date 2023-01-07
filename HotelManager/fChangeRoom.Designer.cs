@@ -192,7 +192,7 @@
             this.cbRoom.Location = new System.Drawing.Point(27, 101);
             this.cbRoom.Name = "cbRoom";
             this.cbRoom.Size = new System.Drawing.Size(203, 29);
-            this.cbRoom.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbRoom.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbRoom.TabIndex = 54;
             this.cbRoom.UseCustomBackColor = true;
             this.cbRoom.UseCustomForeColor = true;
@@ -220,7 +220,7 @@
             this.cbRoomType.Location = new System.Drawing.Point(27, 47);
             this.cbRoomType.Name = "cbRoomType";
             this.cbRoomType.Size = new System.Drawing.Size(203, 29);
-            this.cbRoomType.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbRoomType.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbRoomType.TabIndex = 52;
             this.cbRoomType.UseCustomBackColor = true;
             this.cbRoomType.UseCustomForeColor = true;

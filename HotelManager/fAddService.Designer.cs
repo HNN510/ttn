@@ -172,7 +172,7 @@
             this.comboBoxServiceType.Location = new System.Drawing.Point(12, 99);
             this.comboBoxServiceType.Name = "comboBoxServiceType";
             this.comboBoxServiceType.Size = new System.Drawing.Size(198, 29);
-            this.comboBoxServiceType.Style = MetroFramework.MetroColorStyle.Green;
+            this.comboBoxServiceType.Style = MetroFramework.MetroColorStyle.Silver;
             this.comboBoxServiceType.TabIndex = 2;
             this.comboBoxServiceType.UseCustomBackColor = true;
             this.comboBoxServiceType.UseCustomForeColor = true;

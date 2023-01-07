@@ -152,7 +152,7 @@
             this.cbNationality.Location = new System.Drawing.Point(240, 207);
             this.cbNationality.Name = "cbNationality";
             this.cbNationality.Size = new System.Drawing.Size(203, 29);
-            this.cbNationality.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbNationality.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbNationality.TabIndex = 53;
             this.cbNationality.UseCustomBackColor = true;
             this.cbNationality.UseCustomForeColor = true;
@@ -266,7 +266,7 @@
             this.cbSex.Location = new System.Drawing.Point(240, 152);
             this.cbSex.Name = "cbSex";
             this.cbSex.Size = new System.Drawing.Size(203, 29);
-            this.cbSex.Style = MetroFramework.MetroColorStyle.Green;
+            this.cbSex.Style = MetroFramework.MetroColorStyle.Silver;
             this.cbSex.TabIndex = 26;
             this.cbSex.UseCustomBackColor = true;
             this.cbSex.UseCustomForeColor = true;
