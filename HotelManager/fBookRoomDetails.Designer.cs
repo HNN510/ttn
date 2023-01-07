@@ -88,7 +88,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label2.ForeColor = System.Drawing.Color.IndianRed;
             this.label2.Location = new System.Drawing.Point(8, 8);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(240, 37);
@@ -116,7 +116,7 @@
             this.groupBox6.Controls.Add(this.label19);
             this.groupBox6.Controls.Add(this.label21);
             this.groupBox6.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.groupBox6.ForeColor = System.Drawing.Color.SeaGreen;
+            this.groupBox6.ForeColor = System.Drawing.Color.IndianRed;
             this.groupBox6.Location = new System.Drawing.Point(7, 52);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(238, 358);
@@ -128,7 +128,7 @@
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label15.ForeColor = System.Drawing.Color.IndianRed;
             this.label15.Location = new System.Drawing.Point(17, 82);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(111, 20);
@@ -137,9 +137,9 @@
             // 
             // txbIDBookRoom
             // 
-            this.txbIDBookRoom.BorderColorFocused = System.Drawing.Color.SeaGreen;
-            this.txbIDBookRoom.BorderColorIdle = System.Drawing.Color.SeaGreen;
-            this.txbIDBookRoom.BorderColorMouseHover = System.Drawing.Color.SeaGreen;
+            this.txbIDBookRoom.BorderColorFocused = System.Drawing.Color.IndianRed;
+            this.txbIDBookRoom.BorderColorIdle = System.Drawing.Color.IndianRed;
+            this.txbIDBookRoom.BorderColorMouseHover = System.Drawing.Color.IndianRed;
             this.txbIDBookRoom.BorderThickness = 1;
             this.txbIDBookRoom.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txbIDBookRoom.Enabled = false;
@@ -157,7 +157,7 @@
             // 
             this.label16.AutoSize = true;
             this.label16.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label16.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label16.ForeColor = System.Drawing.Color.IndianRed;
             this.label16.Location = new System.Drawing.Point(16, 27);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(106, 20);
@@ -183,20 +183,20 @@
             // 
             this.btnClose_.ActiveBorderThickness = 1;
             this.btnClose_.ActiveCornerRadius = 20;
-            this.btnClose_.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.btnClose_.ActiveFillColor = System.Drawing.Color.IndianRed;
             this.btnClose_.ActiveForecolor = System.Drawing.Color.White;
-            this.btnClose_.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.btnClose_.ActiveLineColor = System.Drawing.Color.IndianRed;
             this.btnClose_.BackColor = System.Drawing.Color.White;
             this.btnClose_.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnClose_.BackgroundImage")));
             this.btnClose_.ButtonText = "Đóng";
             this.btnClose_.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnClose_.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose_.ForeColor = System.Drawing.Color.SeaGreen;
+            this.btnClose_.ForeColor = System.Drawing.Color.IndianRed;
             this.btnClose_.IdleBorderThickness = 1;
             this.btnClose_.IdleCornerRadius = 20;
             this.btnClose_.IdleFillColor = System.Drawing.Color.White;
-            this.btnClose_.IdleForecolor = System.Drawing.Color.SeaGreen;
-            this.btnClose_.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.btnClose_.IdleForecolor = System.Drawing.Color.IndianRed;
+            this.btnClose_.IdleLineColor = System.Drawing.Color.IndianRed;
             this.btnClose_.Location = new System.Drawing.Point(489, 368);
             this.btnClose_.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnClose_.Name = "btnClose_";
@@ -228,7 +228,7 @@
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.groupBox2.Font = new System.Drawing.Font("Segoe UI", 12F);
-            this.groupBox2.ForeColor = System.Drawing.Color.SeaGreen;
+            this.groupBox2.ForeColor = System.Drawing.Color.IndianRed;
             this.groupBox2.Location = new System.Drawing.Point(249, 52);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(453, 310);
@@ -273,7 +273,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label6.ForeColor = System.Drawing.Color.IndianRed;
             this.label6.Location = new System.Drawing.Point(238, 24);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(77, 20);
@@ -300,7 +300,7 @@
             // 
             this.label20.AutoSize = true;
             this.label20.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label20.ForeColor = System.Drawing.Color.IndianRed;
             this.label20.Location = new System.Drawing.Point(8, 131);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(119, 20);
@@ -309,7 +309,7 @@
             // 
             // DatepickerDateOfReceive
             // 
-            this.DatepickerDateOfReceive.BackColor = System.Drawing.Color.SeaGreen;
+            this.DatepickerDateOfReceive.BackColor = System.Drawing.Color.IndianRed;
             this.DatepickerDateOfReceive.BorderRadius = 0;
             this.DatepickerDateOfReceive.ForeColor = System.Drawing.Color.White;
             this.DatepickerDateOfReceive.Format = System.Windows.Forms.DateTimePickerFormat.Short;
@@ -323,9 +323,9 @@
             // 
             // txbAddress
             // 
-            this.txbAddress.BorderColorFocused = System.Drawing.Color.SeaGreen;
-            this.txbAddress.BorderColorIdle = System.Drawing.Color.SeaGreen;
-            this.txbAddress.BorderColorMouseHover = System.Drawing.Color.SeaGreen;
+            this.txbAddress.BorderColorFocused = System.Drawing.Color.IndianRed;
+            this.txbAddress.BorderColorIdle = System.Drawing.Color.IndianRed;
+            this.txbAddress.BorderColorMouseHover = System.Drawing.Color.IndianRed;
             this.txbAddress.BorderThickness = 1;
             this.txbAddress.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txbAddress.Font = new System.Drawing.Font("Century Gothic", 9.75F);
@@ -342,7 +342,7 @@
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label11.ForeColor = System.Drawing.Color.IndianRed;
             this.label11.Location = new System.Drawing.Point(238, 80);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(58, 20);
@@ -373,7 +373,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label12.ForeColor = System.Drawing.Color.IndianRed;
             this.label12.Location = new System.Drawing.Point(238, 182);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(75, 20);
@@ -384,7 +384,7 @@
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label13.ForeColor = System.Drawing.Color.IndianRed;
             this.label13.Location = new System.Drawing.Point(238, 131);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(68, 20);
@@ -393,9 +393,9 @@
             // 
             // txbPhoneNumber
             // 
-            this.txbPhoneNumber.BorderColorFocused = System.Drawing.Color.SeaGreen;
-            this.txbPhoneNumber.BorderColorIdle = System.Drawing.Color.SeaGreen;
-            this.txbPhoneNumber.BorderColorMouseHover = System.Drawing.Color.SeaGreen;
+            this.txbPhoneNumber.BorderColorFocused = System.Drawing.Color.IndianRed;
+            this.txbPhoneNumber.BorderColorIdle = System.Drawing.Color.IndianRed;
+            this.txbPhoneNumber.BorderColorMouseHover = System.Drawing.Color.IndianRed;
             this.txbPhoneNumber.BorderThickness = 1;
             this.txbPhoneNumber.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txbPhoneNumber.Font = new System.Drawing.Font("Century Gothic", 9.75F);
@@ -413,7 +413,7 @@
             // 
             this.label14.AutoSize = true;
             this.label14.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label14.ForeColor = System.Drawing.Color.IndianRed;
             this.label14.Location = new System.Drawing.Point(8, 187);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(100, 20);
@@ -422,9 +422,9 @@
             // 
             // txbIDCard
             // 
-            this.txbIDCard.BorderColorFocused = System.Drawing.Color.SeaGreen;
-            this.txbIDCard.BorderColorIdle = System.Drawing.Color.SeaGreen;
-            this.txbIDCard.BorderColorMouseHover = System.Drawing.Color.SeaGreen;
+            this.txbIDCard.BorderColorFocused = System.Drawing.Color.IndianRed;
+            this.txbIDCard.BorderColorIdle = System.Drawing.Color.IndianRed;
+            this.txbIDCard.BorderColorMouseHover = System.Drawing.Color.IndianRed;
             this.txbIDCard.BorderThickness = 1;
             this.txbIDCard.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txbIDCard.Font = new System.Drawing.Font("Century Gothic", 9.75F);
@@ -441,7 +441,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label1.ForeColor = System.Drawing.Color.IndianRed;
             this.label1.Location = new System.Drawing.Point(8, 77);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(153, 20);
@@ -450,9 +450,9 @@
             // 
             // txbFullName
             // 
-            this.txbFullName.BorderColorFocused = System.Drawing.Color.SeaGreen;
-            this.txbFullName.BorderColorIdle = System.Drawing.Color.SeaGreen;
-            this.txbFullName.BorderColorMouseHover = System.Drawing.Color.SeaGreen;
+            this.txbFullName.BorderColorFocused = System.Drawing.Color.IndianRed;
+            this.txbFullName.BorderColorIdle = System.Drawing.Color.IndianRed;
+            this.txbFullName.BorderColorMouseHover = System.Drawing.Color.IndianRed;
             this.txbFullName.BorderThickness = 1;
             this.txbFullName.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txbFullName.Font = new System.Drawing.Font("Century Gothic", 9.75F);
@@ -469,7 +469,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label3.ForeColor = System.Drawing.Color.IndianRed;
             this.label3.Location = new System.Drawing.Point(8, 24);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(76, 20);
@@ -480,7 +480,7 @@
             // 
             this.label19.AutoSize = true;
             this.label19.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label19.ForeColor = System.Drawing.Color.IndianRed;
             this.label19.Location = new System.Drawing.Point(14, 188);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(69, 20);
@@ -491,7 +491,7 @@
             // 
             this.label21.AutoSize = true;
             this.label21.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label21.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label21.ForeColor = System.Drawing.Color.IndianRed;
             this.label21.Location = new System.Drawing.Point(14, 134);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(83, 20);
@@ -500,7 +500,7 @@
             // 
             // dpkDateCheckOut
             // 
-            this.dpkDateCheckOut.BackColor = System.Drawing.Color.SeaGreen;
+            this.dpkDateCheckOut.BackColor = System.Drawing.Color.IndianRed;
             this.dpkDateCheckOut.BorderRadius = 0;
             this.dpkDateCheckOut.ForeColor = System.Drawing.Color.White;
             this.dpkDateCheckOut.Format = System.Windows.Forms.DateTimePickerFormat.Short;
@@ -516,7 +516,7 @@
             // 
             // dpkDateCheckIn
             // 
-            this.dpkDateCheckIn.BackColor = System.Drawing.Color.SeaGreen;
+            this.dpkDateCheckIn.BackColor = System.Drawing.Color.IndianRed;
             this.dpkDateCheckIn.BorderRadius = 0;
             this.dpkDateCheckIn.ForeColor = System.Drawing.Color.White;
             this.dpkDateCheckIn.Format = System.Windows.Forms.DateTimePickerFormat.Short;
@@ -532,7 +532,7 @@
             // 
             // dpkDateOfBirth
             // 
-            this.dpkDateOfBirth.BackColor = System.Drawing.Color.SeaGreen;
+            this.dpkDateOfBirth.BackColor = System.Drawing.Color.IndianRed;
             this.dpkDateOfBirth.BorderRadius = 0;
             this.dpkDateOfBirth.ForeColor = System.Drawing.Color.White;
             this.dpkDateOfBirth.Format = System.Windows.Forms.DateTimePickerFormat.Short;
@@ -565,20 +565,20 @@
             // 
             this.bunifuThinButton21.ActiveBorderThickness = 1;
             this.bunifuThinButton21.ActiveCornerRadius = 20;
-            this.bunifuThinButton21.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton21.ActiveFillColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton21.ActiveForecolor = System.Drawing.Color.White;
-            this.bunifuThinButton21.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton21.ActiveLineColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton21.BackColor = System.Drawing.Color.White;
             this.bunifuThinButton21.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuThinButton21.BackgroundImage")));
             this.bunifuThinButton21.ButtonText = "Cập Nhật Khách Hàng";
             this.bunifuThinButton21.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuThinButton21.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuThinButton21.ForeColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton21.ForeColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton21.IdleBorderThickness = 1;
             this.bunifuThinButton21.IdleCornerRadius = 20;
             this.bunifuThinButton21.IdleFillColor = System.Drawing.Color.White;
-            this.bunifuThinButton21.IdleForecolor = System.Drawing.Color.SeaGreen;
-            this.bunifuThinButton21.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton21.IdleForecolor = System.Drawing.Color.IndianRed;
+            this.bunifuThinButton21.IdleLineColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton21.Location = new System.Drawing.Point(10, 263);
             this.bunifuThinButton21.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bunifuThinButton21.Name = "bunifuThinButton21";
@@ -589,9 +589,9 @@
             // 
             // txbDays
             // 
-            this.txbDays.BorderColorFocused = System.Drawing.Color.SeaGreen;
-            this.txbDays.BorderColorIdle = System.Drawing.Color.SeaGreen;
-            this.txbDays.BorderColorMouseHover = System.Drawing.Color.SeaGreen;
+            this.txbDays.BorderColorFocused = System.Drawing.Color.IndianRed;
+            this.txbDays.BorderColorIdle = System.Drawing.Color.IndianRed;
+            this.txbDays.BorderColorMouseHover = System.Drawing.Color.IndianRed;
             this.txbDays.BorderThickness = 1;
             this.txbDays.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.txbDays.Enabled = false;
@@ -609,7 +609,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label4.ForeColor = System.Drawing.Color.IndianRed;
             this.label4.Location = new System.Drawing.Point(15, 239);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(63, 20);
@@ -620,20 +620,20 @@
             // 
             this.bunifuThinButton22.ActiveBorderThickness = 1;
             this.bunifuThinButton22.ActiveCornerRadius = 20;
-            this.bunifuThinButton22.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton22.ActiveFillColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton22.ActiveForecolor = System.Drawing.Color.White;
-            this.bunifuThinButton22.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton22.ActiveLineColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton22.BackColor = System.Drawing.Color.White;
             this.bunifuThinButton22.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuThinButton22.BackgroundImage")));
             this.bunifuThinButton22.ButtonText = "Lưu Thay Đổi";
             this.bunifuThinButton22.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuThinButton22.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuThinButton22.ForeColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton22.ForeColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton22.IdleBorderThickness = 1;
             this.bunifuThinButton22.IdleCornerRadius = 20;
             this.bunifuThinButton22.IdleFillColor = System.Drawing.Color.White;
-            this.bunifuThinButton22.IdleForecolor = System.Drawing.Color.SeaGreen;
-            this.bunifuThinButton22.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton22.IdleForecolor = System.Drawing.Color.IndianRed;
+            this.bunifuThinButton22.IdleLineColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton22.Location = new System.Drawing.Point(18, 304);
             this.bunifuThinButton22.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bunifuThinButton22.Name = "bunifuThinButton22";
@@ -646,20 +646,20 @@
             // 
             this.bunifuThinButton23.ActiveBorderThickness = 1;
             this.bunifuThinButton23.ActiveCornerRadius = 20;
-            this.bunifuThinButton23.ActiveFillColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton23.ActiveFillColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton23.ActiveForecolor = System.Drawing.Color.White;
-            this.bunifuThinButton23.ActiveLineColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton23.ActiveLineColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton23.BackColor = System.Drawing.Color.White;
             this.bunifuThinButton23.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuThinButton23.BackgroundImage")));
             this.bunifuThinButton23.ButtonText = "Xóa Khách Hàng";
             this.bunifuThinButton23.Cursor = System.Windows.Forms.Cursors.Hand;
             this.bunifuThinButton23.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuThinButton23.ForeColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton23.ForeColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton23.IdleBorderThickness = 1;
             this.bunifuThinButton23.IdleCornerRadius = 20;
             this.bunifuThinButton23.IdleFillColor = System.Drawing.Color.White;
-            this.bunifuThinButton23.IdleForecolor = System.Drawing.Color.SeaGreen;
-            this.bunifuThinButton23.IdleLineColor = System.Drawing.Color.SeaGreen;
+            this.bunifuThinButton23.IdleForecolor = System.Drawing.Color.IndianRed;
+            this.bunifuThinButton23.IdleLineColor = System.Drawing.Color.IndianRed;
             this.bunifuThinButton23.Location = new System.Drawing.Point(240, 263);
             this.bunifuThinButton23.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.bunifuThinButton23.Name = "bunifuThinButton23";
