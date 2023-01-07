@@ -236,5 +236,10 @@ namespace HotelManager
             fLogin flogin = new fLogin();
             flogin.Show();
         }
-    }
+
+          private void panelLeft_Paint(object sender, PaintEventArgs e)
+          {
+
+          }
+     }
 }

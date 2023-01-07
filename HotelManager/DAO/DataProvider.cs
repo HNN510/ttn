@@ -11,7 +11,7 @@ namespace HotelManager.DAO
     public class DataProvider
     {
         private static DataProvider instance;
-        private string connectionStr = @"Data Source=TRUNG\TRUNG;Initial Catalog=HotelManagement;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        private string connectionStr = @"Data Source=DESKTOP-OBBI9B7;Initial Catalog=HotelManagement;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
         //private string connectionStr = @"Data Source=THIEN-AI\THIENAI;Initial Catalog=HotelManagement;Integrated Security=True";
         //private string connectionStr = @"Data Source=.\sqlexpress;Initial Catalog=HotelManagement;Integrated Security=True";
