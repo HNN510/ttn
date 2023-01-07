@@ -420,6 +420,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="hotel.ico" />
+    <None Include="Resources\sanh-the-ritz-carlton-hotel.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

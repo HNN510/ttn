@@ -355,6 +355,11 @@ namespace HotelManager
         {
             LoadFullCustomer(GetFullCustomer());
         }
-        #endregion
-    }
+          #endregion
+
+          private void bindingNavigatorCountItem_Click(object sender, EventArgs e)
+          {
+
+          }
+     }
 }

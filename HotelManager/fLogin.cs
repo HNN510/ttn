@@ -66,5 +66,15 @@ namespace HotelManager
             if (e.KeyChar == 13)
                 btnLogin_Click_1(sender, null);
         }
-    }
+
+          private void pictureBox2_Click(object sender, EventArgs e)
+          {
+
+          }
+
+          private void txbUserName_OnValueChanged(object sender, EventArgs e)
+          {
+
+          }
+     }
 }
