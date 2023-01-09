@@ -84,13 +84,12 @@ Bạn có câu hỏi hoặc vấn đề với dự án? [Đặt câu hỏi](http
 
 ## Tác giả
 
-* **Nguyễn Phúc Tú** - [phuctu1901](https://github.com/phuctu1901)
-* **Nguyễn Phú Lập** - [NguyenPhuLap3112](https://github.com/NguyenPhuLap3112)
-* **Bùi Đức Tuấn** - [BuiDucTuan2802](https://github.com/BuiDucTuan2802)
-* **Trần Minh Phát** - [tranminhphat1122](https://github.com/tranminhphat1122)
-* **Vũ Tiến Đức** - [VuTienDuc1707](https://github.com/VuTienDuc1707)
-* **Cao Đình Dũng** - [caodinhdung](https://github.com/caodinhdung)
-* **Sinna Sone** - [sinnasonemta](https://github.com/sinnasonemta)
+* **Trần Bảo Trung** - [trung501](https://github.com/trung501)
+* **Phạm Đình Khương Duy ** - [khuongduyktqs](https://github.com/khuongduyktqs)
+* **Đinh Thị Thu Uyên** - [DinhUyen](https://github.com/DinhUyen)
+* **Hồ Nguyễn Nguyên** - [HNN510](https://github.com/HNN510)
+* **An Thanh Tú** - [ATT21072001](https://github.com/ATT21072001)
+
 
 ## Giấy phép
 
